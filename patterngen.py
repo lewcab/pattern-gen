@@ -194,7 +194,7 @@ def main():
     """main"""
     # Setting up HTML page
     pelogue: ProEpilogue = ProEpilogue("My Art")
-    f: IO[str] = open("a43.html", "w")
+    f: IO[str] = open("patterns.html", "w")
     pelogue.writePro(f)
 
     # FRAME 1
