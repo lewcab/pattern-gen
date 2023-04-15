@@ -2,7 +2,6 @@
 """Python SVG Pattern Generator"""
 print(__doc__)
 
-from typing import IO
 import random
 
 
